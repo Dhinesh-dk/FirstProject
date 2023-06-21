@@ -1,0 +1,5 @@
+print("start our project")
+a=int(input())
+c=input()
+d=a+int(c)
+print(d)
