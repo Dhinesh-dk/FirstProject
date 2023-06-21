@@ -1,7 +1,7 @@
 print("start our project")
 a=int(input())
 c=int(input())
-d=a+int(c)
+d=a+(c+2)
 print(d)
 print(a,c)
 print("end")
