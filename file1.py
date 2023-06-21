@@ -1,6 +1,6 @@
 print("start our project")
 a=int(input())
-c=input()
+c=int(input())
 d=a+int(c)
 print(d)
 print(a,c)
